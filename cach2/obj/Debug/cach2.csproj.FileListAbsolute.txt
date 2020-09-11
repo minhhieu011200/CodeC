@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\cach2\bin\Debug\cach2.exe.config
+D:\trochoi\ConsoleApp3\cach2\bin\Debug\cach2.exe
+D:\trochoi\ConsoleApp3\cach2\bin\Debug\cach2.pdb
+D:\trochoi\ConsoleApp3\cach2\obj\Debug\cach2.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\cach2\obj\Debug\cach2.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\cach2\obj\Debug\cach2.exe
+D:\trochoi\ConsoleApp3\cach2\obj\Debug\cach2.pdb

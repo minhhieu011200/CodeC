@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\codelearn\bin\Debug\codelearn.exe.config
+D:\trochoi\ConsoleApp3\codelearn\bin\Debug\codelearn.exe
+D:\trochoi\ConsoleApp3\codelearn\bin\Debug\codelearn.pdb
+D:\trochoi\ConsoleApp3\codelearn\obj\Debug\codelearn.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\codelearn\obj\Debug\codelearn.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\codelearn\obj\Debug\codelearn.exe
+D:\trochoi\ConsoleApp3\codelearn\obj\Debug\codelearn.pdb

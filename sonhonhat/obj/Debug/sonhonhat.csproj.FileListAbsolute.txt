@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\sonhonhat\bin\Debug\sonhonhat.exe.config
+D:\trochoi\ConsoleApp3\sonhonhat\bin\Debug\sonhonhat.exe
+D:\trochoi\ConsoleApp3\sonhonhat\bin\Debug\sonhonhat.pdb
+D:\trochoi\ConsoleApp3\sonhonhat\obj\Debug\sonhonhat.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\sonhonhat\obj\Debug\sonhonhat.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\sonhonhat\obj\Debug\sonhonhat.exe
+D:\trochoi\ConsoleApp3\sonhonhat\obj\Debug\sonhonhat.pdb

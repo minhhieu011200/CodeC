@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\tachchu\bin\Debug\tachchu.exe.config
+D:\trochoi\ConsoleApp3\tachchu\bin\Debug\tachchu.exe
+D:\trochoi\ConsoleApp3\tachchu\bin\Debug\tachchu.pdb
+D:\trochoi\ConsoleApp3\tachchu\obj\Debug\tachchu.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\tachchu\obj\Debug\tachchu.exe
+D:\trochoi\ConsoleApp3\tachchu\obj\Debug\tachchu.pdb
+D:\trochoi\ConsoleApp3\tachchu\obj\Debug\tachchu.csprojAssemblyReference.cache

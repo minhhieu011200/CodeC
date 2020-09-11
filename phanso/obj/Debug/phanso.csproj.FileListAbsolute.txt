@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\phanso\bin\Debug\phanso.exe.config
+D:\trochoi\ConsoleApp3\phanso\bin\Debug\phanso.exe
+D:\trochoi\ConsoleApp3\phanso\bin\Debug\phanso.pdb
+D:\trochoi\ConsoleApp3\phanso\obj\Debug\phanso.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\phanso\obj\Debug\phanso.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\phanso\obj\Debug\phanso.exe
+D:\trochoi\ConsoleApp3\phanso\obj\Debug\phanso.pdb

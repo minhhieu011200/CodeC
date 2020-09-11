@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\CuocThi\bin\Debug\CuocThi.exe.config
+D:\trochoi\ConsoleApp3\CuocThi\bin\Debug\CuocThi.exe
+D:\trochoi\ConsoleApp3\CuocThi\bin\Debug\CuocThi.pdb
+D:\trochoi\ConsoleApp3\CuocThi\obj\Debug\CuocThi.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\CuocThi\obj\Debug\CuocThi.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\CuocThi\obj\Debug\CuocThi.exe
+D:\trochoi\ConsoleApp3\CuocThi\obj\Debug\CuocThi.pdb

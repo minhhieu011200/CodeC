@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\inkytu\bin\Debug\inkytu.exe.config
+D:\trochoi\ConsoleApp3\inkytu\bin\Debug\inkytu.exe
+D:\trochoi\ConsoleApp3\inkytu\bin\Debug\inkytu.pdb
+D:\trochoi\ConsoleApp3\inkytu\obj\Debug\inkytu.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\inkytu\obj\Debug\inkytu.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\inkytu\obj\Debug\inkytu.exe
+D:\trochoi\ConsoleApp3\inkytu\obj\Debug\inkytu.pdb

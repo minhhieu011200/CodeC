@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\cong=0\bin\Debug\cong=0.exe.config
+D:\trochoi\ConsoleApp3\cong=0\bin\Debug\cong=0.exe
+D:\trochoi\ConsoleApp3\cong=0\bin\Debug\cong=0.pdb
+D:\trochoi\ConsoleApp3\cong=0\obj\Debug\cong=0.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\cong=0\obj\Debug\cong=0.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\cong=0\obj\Debug\cong=0.exe
+D:\trochoi\ConsoleApp3\cong=0\obj\Debug\cong=0.pdb

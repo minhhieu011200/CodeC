@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\NHANVIEN\bin\Debug\NHANVIEN.exe.config
+D:\trochoi\ConsoleApp3\NHANVIEN\bin\Debug\NHANVIEN.exe
+D:\trochoi\ConsoleApp3\NHANVIEN\bin\Debug\NHANVIEN.pdb
+D:\trochoi\ConsoleApp3\NHANVIEN\obj\Debug\NHANVIEN.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\NHANVIEN\obj\Debug\NHANVIEN.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\NHANVIEN\obj\Debug\NHANVIEN.exe
+D:\trochoi\ConsoleApp3\NHANVIEN\obj\Debug\NHANVIEN.pdb

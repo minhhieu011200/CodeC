@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\KHACHHANG\bin\Debug\KHACHHANG.exe.config
+D:\trochoi\ConsoleApp3\KHACHHANG\bin\Debug\KHACHHANG.exe
+D:\trochoi\ConsoleApp3\KHACHHANG\bin\Debug\KHACHHANG.pdb
+D:\trochoi\ConsoleApp3\KHACHHANG\obj\Debug\KHACHHANG.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\KHACHHANG\obj\Debug\KHACHHANG.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\KHACHHANG\obj\Debug\KHACHHANG.exe
+D:\trochoi\ConsoleApp3\KHACHHANG\obj\Debug\KHACHHANG.pdb

@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\SINHVIEN\bin\Debug\SINHVIEN.exe.config
+D:\trochoi\ConsoleApp3\SINHVIEN\bin\Debug\SINHVIEN.exe
+D:\trochoi\ConsoleApp3\SINHVIEN\bin\Debug\SINHVIEN.pdb
+D:\trochoi\ConsoleApp3\SINHVIEN\obj\Debug\SINHVIEN.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\SINHVIEN\obj\Debug\SINHVIEN.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\SINHVIEN\obj\Debug\SINHVIEN.exe
+D:\trochoi\ConsoleApp3\SINHVIEN\obj\Debug\SINHVIEN.pdb

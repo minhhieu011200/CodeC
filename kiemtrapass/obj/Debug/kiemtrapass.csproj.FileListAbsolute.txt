@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\kiemtrapass\obj\Debug\kiemtrapass.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\kiemtrapass\obj\Debug\kiemtrapass.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\kiemtrapass\bin\Debug\kiemtrapass.exe.config
+D:\trochoi\ConsoleApp3\kiemtrapass\bin\Debug\kiemtrapass.exe
+D:\trochoi\ConsoleApp3\kiemtrapass\bin\Debug\kiemtrapass.pdb
+D:\trochoi\ConsoleApp3\kiemtrapass\obj\Debug\kiemtrapass.exe
+D:\trochoi\ConsoleApp3\kiemtrapass\obj\Debug\kiemtrapass.pdb

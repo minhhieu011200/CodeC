@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\sapxep\bin\Debug\sapxep.exe.config
+D:\trochoi\ConsoleApp3\sapxep\bin\Debug\sapxep.exe
+D:\trochoi\ConsoleApp3\sapxep\bin\Debug\sapxep.pdb
+D:\trochoi\ConsoleApp3\sapxep\obj\Debug\sapxep(insertion sort).csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\sapxep\obj\Debug\sapxep(insertion sort).csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\sapxep\obj\Debug\sapxep.exe
+D:\trochoi\ConsoleApp3\sapxep\obj\Debug\sapxep.pdb

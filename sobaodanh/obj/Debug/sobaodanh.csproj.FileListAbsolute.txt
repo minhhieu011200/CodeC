@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\sobaodanh\bin\Debug\sobaodanh.exe.config
+D:\trochoi\ConsoleApp3\sobaodanh\bin\Debug\sobaodanh.exe
+D:\trochoi\ConsoleApp3\sobaodanh\bin\Debug\sobaodanh.pdb
+D:\trochoi\ConsoleApp3\sobaodanh\obj\Debug\sobaodanh.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\sobaodanh\obj\Debug\sobaodanh.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\sobaodanh\obj\Debug\sobaodanh.exe
+D:\trochoi\ConsoleApp3\sobaodanh\obj\Debug\sobaodanh.pdb

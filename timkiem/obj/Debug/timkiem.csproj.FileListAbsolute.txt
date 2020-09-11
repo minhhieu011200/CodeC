@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\timkiem\bin\Debug\timkiem.exe.config
+D:\trochoi\ConsoleApp3\timkiem\bin\Debug\timkiem.exe
+D:\trochoi\ConsoleApp3\timkiem\bin\Debug\timkiem.pdb
+D:\trochoi\ConsoleApp3\timkiem\obj\Debug\timkiem.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\timkiem\obj\Debug\timkiem.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\timkiem\obj\Debug\timkiem.exe
+D:\trochoi\ConsoleApp3\timkiem\obj\Debug\timkiem.pdb

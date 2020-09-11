@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\book\obj\Debug\book.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\book\obj\Debug\book.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\book\bin\Debug\book.exe.config
+D:\trochoi\ConsoleApp3\book\bin\Debug\book.exe
+D:\trochoi\ConsoleApp3\book\bin\Debug\book.pdb
+D:\trochoi\ConsoleApp3\book\obj\Debug\book.exe
+D:\trochoi\ConsoleApp3\book\obj\Debug\book.pdb

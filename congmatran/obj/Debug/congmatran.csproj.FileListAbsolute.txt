@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\congmatran\bin\Debug\congmatran.exe.config
+D:\trochoi\ConsoleApp3\congmatran\bin\Debug\congmatran.exe
+D:\trochoi\ConsoleApp3\congmatran\bin\Debug\congmatran.pdb
+D:\trochoi\ConsoleApp3\congmatran\obj\Debug\congmatran.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\congmatran\obj\Debug\congmatran.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\congmatran\obj\Debug\congmatran.exe
+D:\trochoi\ConsoleApp3\congmatran\obj\Debug\congmatran.pdb

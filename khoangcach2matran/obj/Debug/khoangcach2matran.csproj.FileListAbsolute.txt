@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\khoangcach2matran\bin\Debug\khoangcach2matran.exe.config
+D:\trochoi\ConsoleApp3\khoangcach2matran\bin\Debug\khoangcach2matran.exe
+D:\trochoi\ConsoleApp3\khoangcach2matran\bin\Debug\khoangcach2matran.pdb
+D:\trochoi\ConsoleApp3\khoangcach2matran\obj\Debug\khoangcach2matran.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\khoangcach2matran\obj\Debug\khoangcach2matran.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\khoangcach2matran\obj\Debug\khoangcach2matran.exe
+D:\trochoi\ConsoleApp3\khoangcach2matran\obj\Debug\khoangcach2matran.pdb

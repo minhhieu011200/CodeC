@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\sapxep(nhieucach)\bin\Debug\sapxep(nhieucach).exe.config
+D:\trochoi\ConsoleApp3\sapxep(nhieucach)\bin\Debug\sapxep(nhieucach).exe
+D:\trochoi\ConsoleApp3\sapxep(nhieucach)\bin\Debug\sapxep(nhieucach).pdb
+D:\trochoi\ConsoleApp3\sapxep(nhieucach)\obj\Debug\sapxep(nhieucach).csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\sapxep(nhieucach)\obj\Debug\sapxep(nhieucach).csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\sapxep(nhieucach)\obj\Debug\sapxep(nhieucach).exe
+D:\trochoi\ConsoleApp3\sapxep(nhieucach)\obj\Debug\sapxep(nhieucach).pdb

@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\MyList\bin\Debug\MyList.exe.config
+D:\trochoi\ConsoleApp3\MyList\bin\Debug\MyList.exe
+D:\trochoi\ConsoleApp3\MyList\bin\Debug\MyList.pdb
+D:\trochoi\ConsoleApp3\MyList\obj\Debug\MyList.exe
+D:\trochoi\ConsoleApp3\MyList\obj\Debug\MyList.pdb

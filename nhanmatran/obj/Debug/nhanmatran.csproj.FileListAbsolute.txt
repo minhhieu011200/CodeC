@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\nhanmatran\bin\Debug\nhanmatran.exe.config
+D:\trochoi\ConsoleApp3\nhanmatran\bin\Debug\nhanmatran.exe
+D:\trochoi\ConsoleApp3\nhanmatran\bin\Debug\nhanmatran.pdb
+D:\trochoi\ConsoleApp3\nhanmatran\obj\Debug\nhanmatran.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\nhanmatran\obj\Debug\nhanmatran.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\nhanmatran\obj\Debug\nhanmatran.exe
+D:\trochoi\ConsoleApp3\nhanmatran\obj\Debug\nhanmatran.pdb

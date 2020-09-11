@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\demsoluong\bin\Debug\demsoluong.exe.config
+D:\trochoi\ConsoleApp3\demsoluong\bin\Debug\demsoluong.exe
+D:\trochoi\ConsoleApp3\demsoluong\bin\Debug\demsoluong.pdb
+D:\trochoi\ConsoleApp3\demsoluong\obj\Debug\demsoluong.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\demsoluong\obj\Debug\demsoluong.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\demsoluong\obj\Debug\demsoluong.exe
+D:\trochoi\ConsoleApp3\demsoluong\obj\Debug\demsoluong.pdb

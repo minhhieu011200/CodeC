@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\baitapchuoi\bin\Debug\baitapchuoi.exe.config
+D:\trochoi\ConsoleApp3\baitapchuoi\bin\Debug\baitapchuoi.exe
+D:\trochoi\ConsoleApp3\baitapchuoi\bin\Debug\baitapchuoi.pdb
+D:\trochoi\ConsoleApp3\baitapchuoi\obj\Debug\baitapchuoi.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\baitapchuoi\obj\Debug\baitapchuoi.exe
+D:\trochoi\ConsoleApp3\baitapchuoi\obj\Debug\baitapchuoi.pdb
+D:\trochoi\ConsoleApp3\baitapchuoi\obj\Debug\baitapchuoi.csprojAssemblyReference.cache

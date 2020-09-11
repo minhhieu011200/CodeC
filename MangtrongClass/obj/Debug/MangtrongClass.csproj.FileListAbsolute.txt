@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\MangtrongClass\bin\Debug\MangtrongClass.exe.config
+D:\trochoi\ConsoleApp3\MangtrongClass\bin\Debug\MangtrongClass.exe
+D:\trochoi\ConsoleApp3\MangtrongClass\bin\Debug\MangtrongClass.pdb
+D:\trochoi\ConsoleApp3\MangtrongClass\obj\Debug\MangtrongClass.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\MangtrongClass\obj\Debug\MangtrongClass.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\MangtrongClass\obj\Debug\MangtrongClass.exe
+D:\trochoi\ConsoleApp3\MangtrongClass\obj\Debug\MangtrongClass.pdb

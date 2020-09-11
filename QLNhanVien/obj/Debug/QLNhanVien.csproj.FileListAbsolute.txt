@@ -1,0 +1,7 @@
+D:\trochoi\ConsoleApp3\QLNhanVien\bin\Debug\QLNhanVien.exe.config
+D:\trochoi\ConsoleApp3\QLNhanVien\bin\Debug\QLNhanVien.exe
+D:\trochoi\ConsoleApp3\QLNhanVien\bin\Debug\QLNhanVien.pdb
+D:\trochoi\ConsoleApp3\QLNhanVien\obj\Debug\QLNhanVien.csprojAssemblyReference.cache
+D:\trochoi\ConsoleApp3\QLNhanVien\obj\Debug\QLNhanVien.csproj.CoreCompileInputs.cache
+D:\trochoi\ConsoleApp3\QLNhanVien\obj\Debug\QLNhanVien.exe
+D:\trochoi\ConsoleApp3\QLNhanVien\obj\Debug\QLNhanVien.pdb
